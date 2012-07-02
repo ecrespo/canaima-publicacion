@@ -1,0 +1,19 @@
+canaima-publicacion (1:0.3) unstable; urgency=low
+
+  * Add copyright file in control file.
+  * Add changelog file in control file.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Mon, 02 Jul 2012 16:25:19 -0430
+
+canaima-publicacion (1:0.2) unstable; urgency=low
+
+  * Add depends.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Tue, 24 Jan 2012 13:50:18 -0430
+
+canaima-publicacion (1:0.1) unstable; urgency=low
+
+  * First release.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Tue, 24 Jan 2012 10:33:39 -0430
+
