@@ -1,4 +1,4 @@
-canaima-publicacion (1:0.i5) unstable; urgency=low
+canaima-publicacion (1:0.5) unstable; urgency=low
 
   * Remove gimp-dcraw depends again in control file.
 
