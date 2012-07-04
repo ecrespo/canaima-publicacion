@@ -1,6 +1,6 @@
 canaima-publicacion (1:0.4) unstable; urgency=low
 
-  * Reomve gimp-dcraw depends in control file.
+  * Remove gimp-dcraw depends in control file.
 
  -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Wed, 04 Jul 2012 09:21:15 -0430
 
