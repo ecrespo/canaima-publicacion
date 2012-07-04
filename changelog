@@ -1,4 +1,4 @@
-canaima-publicacion (1:0.3) unstable; urgency=low
+canaima-publicacion (1:0.4) unstable; urgency=low
 
   * Reomve gimp-dcraw depends in control file.
 
