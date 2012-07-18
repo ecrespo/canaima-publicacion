@@ -1,0 +1,14 @@
+Section: misc
+Priority: optional
+Homepage: http://canaima.softwarelibre.gob.ve
+Standards-Version: 3.9.1
+
+Package: canaima-publicacion
+Version: 0.5
+Maintainer: Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>
+Depends: ${misc:Depends}, inkscape, python-lxml, gimp, gimp-data-extras, gimp-gmic, gimp-texturize, gimp-gap, scribus-ng, scribus, blender-ogrexml, blender, gimp-help-es, gimp-gutenprint, gimp-plugin-registry, gimp-resynthesizer, openclipart, ttf-bitstream-vera, ttf-century-catalogue, ttf-dejavu, ttf-georgewilliams, ttf-breip, ttf-dustin, ttf-femkeklaver, ttf-isabella, ttf-larabie-deco, ttf-larabie-straight, ttf-larabie-uncommon, ttf-summersby, ttf-tomsontalks, ttf-tuffy,gimp-ufraw,ufraw
+Architecture: all
+Copyright: copyright
+Changelog: changelog
+Description: Metapaquete para diseño gráfico y publicaciones
+ Metapaquete que agrupa fuentes, herramientas de publicacion y diseño.
